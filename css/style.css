@@ -1,0 +1,36 @@
+*{
+  /* background: #13ACAA; */
+  color: #3e3a39;
+  background: #d4d3d3;
+  font-family: "TazuganeGothicStdN-Book", 'Hiragino Sans', 'ヒラギノ角ゴ ProN', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, sans-serif;
+  line-height: 2;
+  letter-spacing: .15em;
+  font-weight: 400;
+  font-size: 11.25px;
+  vertical-align: baseline;
+}
+
+h1{
+  font-size: 15px;
+  border-bottom: 1px solid #3e3a39;
+  margin-bottom: 20px;
+}
+
+main > img {  
+  float: right;
+  margin-right: 20px;
+}
+
+.note{
+  font-size: 15px;
+  text-align: center;
+  padding-top:100px;
+}
+
+.title{
+  border-left: 5px solid #3e3a39;
+  padding: 0 8px;
+  margin-left: 10px;
+  /* margin-bottom: 10px; */
+  margin-top: 20px;
+}
